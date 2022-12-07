@@ -1,1 +1,3 @@
-# 3DPrintShredder.github.io
+# 3DPrintShredder
+
+MME Capstone 2023 Project
