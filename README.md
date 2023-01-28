@@ -3,11 +3,11 @@
 
 The goal of the project is to design a device that will reduce failed prints into a plastic mulch that can be used in standard pellet extruders, turning discarded prints back into useable filament. A Shredder design was selected which works by pelletizing prints using 2 high speed electric planers which shave slices of the prints off, integrated with a shifting mechanism used to separate out usable pallets from waste material.
 
-![](main-view.png)
-![](no_panels.gif)
+![](images/main-view.png)
+![](images/no_panels.gif)
 
 ## Meet the Team
-<img src="joshua.jpg" width="230" height="300">
+<img src="images/joshua.jpg" width="230" height="300">
 
 ### Joshua Fernandes
 > #### Software Lead
@@ -15,7 +15,7 @@ Joshua has extensive experience in software design, primarily with embedded syst
 
 ---
 
-<img src="junsong.jpg" width="230" height="300">
+<img src="images/junsong.jpg" width="230" height="300">
 
 ### Junsong Li
 > #### Electrical Lead
@@ -23,7 +23,7 @@ Junsong focuses mainly on electrical and supports any manufacturing for the team
 
 ---
 
-<img src="matthew.jpg" width="230" height="300">
+<img src="images/matthew.jpg" width="230" height="300">
 
 ### Matthew del Rosso
 > #### Prototyping and Assembly
@@ -31,12 +31,12 @@ Matthew has experience in 2D and 3D CAD design developing his skills through wor
 
 ---
 
-<img src="terrisa.JPG" width="230" height="300">
+<img src="images/terrisa.JPG" width="230" height="300">
 
 ### Terrisa Wang
 > #### Mechanical Lead
 Terrisa is interested and has experience in 3D CAD and circuit/PCB design through past internships. She has worked with many electrical components specific to the automotive industry and as well as experience in 3D printing and most hand tools and machine tools.
 
-## [Blog](./blog.html "Blog")
+## [Blog](blog/blog.html "Blog")
 
 Record of progress and decisions through design and build logs
