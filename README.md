@@ -1,4 +1,4 @@
-## About
+# About
 3D printing is a fast-growing manufacturing process stemming from the capability to create parts cheaper than using other manufacturing techniques. However, this growth only adds to the global plastics crisis since the plastics used in 3D printing are not recyclable through municipality curbside programs due to them being a type 7 thermoplastic.
 
 The goal of the project is to design a device that will reduce failed prints into a plastic mulch that can be used in standard pellet extruders, turning discarded prints back into useable filament. A Shredder design was selected which works by pelletizing prints using 2 high speed electric planers which shave slices of the prints off, integrated with a shifting mechanism used to separate out usable pallets from waste material. 
@@ -6,7 +6,7 @@ The goal of the project is to design a device that will reduce failed prints int
 ![](main-view.png)
 ![](no_panels.gif)
 
-## Meet the Team
+# Meet the Team
 <img src="joshua.jpg" width="230" height="300">
 
 ### Joshua Fernandes
