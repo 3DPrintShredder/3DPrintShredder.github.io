@@ -37,6 +37,6 @@ Matthew has experience in 2D and 3D CAD design developing his skills through wor
 > #### Mechanical Lead
 Terrisa is interested and has experience in 3D CAD and circuit/PCB design through past internships. She has worked with many electrical components specific to the automotive industry and as well as experience in 3D printing and most hand tools and machine tools.
 
-## [Blog](blog.md "Blog")
+## [Blog](./blog.md "Blog")
 
 Record of progress and decisions through design and build logs
