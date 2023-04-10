@@ -1,4 +1,4 @@
-## Progress as of February 31, 2023
+## Progress as of February 28, 2023
 
 ![](../images/Feb31.jpg)
 
